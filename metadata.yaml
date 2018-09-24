@@ -6,6 +6,9 @@ contributor:
     agent_name: Horne, Charles
     gutenberg_agent_id: '47443'
     url: http://www.gutenberg.org/2009/agents/47443
+covers:
+- cover_type: archival
+  image_path: 56456-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56456#Three-Men-A-Novel
 gutenberg_issued: '2018-01-28'
 gutenberg_type: Text
 identifiers:
